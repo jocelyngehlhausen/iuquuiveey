@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://teikaiseex.sobala-werbung.de/sitemap.xml
